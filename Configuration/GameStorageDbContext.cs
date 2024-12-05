@@ -1,7 +1,7 @@
 ﻿using Gametopia.GameStorage.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace Gametopia.GameStorage
+namespace Gametopia.GameStorage.Configuration
 {
     public class GameStorageDbContext : DbContext
     {
